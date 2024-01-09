@@ -18,20 +18,28 @@ Over the years, the SDLC has evolved, with new models and methodologies emerging
 Why SDLC? 
 
 1.Offers a basis for project planning, scheduling, and estimating 
+
 2.Provides a framework for a standard set of activities and deliverables.
+
 3.It is a mechanism for project tracking and control
+
 Increases visibility of project planning to all involved stakeholders 
+
 Increase development speed
+
 Improved client relations
 
 
 
 
-# How does the SDLC work?
+# How does the SDLC work? SDLC Phases............
+
 # 1. Planning
 
-The first phase of the SDLC process is planning. 
+The first phase of the SDLC process is planning.
+
 During this phase, the development team works closely with stakeholders to identify the goals of the software application, 
+
 the scope of the project, and any risks that may affect the project’s success. 
 Additionally, the team outlines the project budget, timelines, and any other factors that may impact the project.
 
@@ -55,7 +63,8 @@ The testing phase is where the software application is thoroughly tested to ensu
 
 The maintenance phase is the final phase of the SDLC process. During this phase, the development team ensures the software application continues to function correctly after it has been released. The team may fix any bugs or issues that arise, make enhancements to the software application, or perform updates to ensure compatibility with new technologies.
 
-Benefits of SDLC
+# Benefits of SDLC
+
 The SDLC process provides several benefits to software development projects, including:
 
 1. Improved Quality
@@ -86,8 +95,10 @@ The SDLC process provides a structured and systematic approach to software devel
 
 The SDLC process involves close collaboration with stakeholders, ensuring that the software application meets their needs and aligns with business objectives. 
 This process helps to ensure that the software application provides value to the business and its customers.
+=====================================================================
+==================================================================
+# What are the SDLC models/methodologies?
 
-What are the SDLC models/methodologies?
 There are various SDLC models/methodologies that can be used for software development. Each model has its own unique approach and benefits. Let’s take a closer look at some of the most popular SDLC models.
 
 1. Waterfall Model
