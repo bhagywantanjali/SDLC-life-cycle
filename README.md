@@ -1,11 +1,11 @@
 
-### Software Development Life Cycle (SDLC)
+#  Software Development Life Cycle (SDLC)
 
 The SDLC is a framework that allows you to break down the process of developing software into phases, each with its own goals and deliverables. 
 It’s a way to plan out your project from start to finish so that you can be sure you’re getting the most value out of your time spent writing code.
 
 -------------------------------------------------------------------------------------------------------------------------
-# Where did the SDLC come from?
+## Where did the SDLC come from?
 It is a methodology that has been used by software developers for many years, and its origins can be traced back to the 1960s and 1970s.
 
 During this time, the development of large-scale software systems was becoming increasingly complex, and there was a need for a structured approach to software development. 
