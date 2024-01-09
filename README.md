@@ -1,3 +1,7 @@
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+
 # Software Development Life Cycle (SDLC)
 
 The SDLC is a framework that allows you to break down the process of developing software into phases, each with its own goals and deliverables. 
@@ -15,7 +19,7 @@ In the Waterfall model, the development process is divided into distinct phases,
 Over the years, the SDLC has evolved, with new models and methodologies emerging to address the changing needs of software development. Agile and Lean methodologies, for example, were developed in response to the need for more flexibility and collaboration in the development process
 
 -------------------------------------------------------------------------------------------------------------------------
-Why SDLC? 
+# Why SDLC? 
 
 1.Offers a basis for project planning, scheduling, and estimating 
 
@@ -30,6 +34,7 @@ Increase development speed
 Improved client relations
 
 
+---------------------------------------------------------------------------------------------
 
 
 # How does the SDLC work? SDLC Phases............
@@ -63,6 +68,11 @@ The testing phase is where the software application is thoroughly tested to ensu
 
 The maintenance phase is the final phase of the SDLC process. During this phase, the development team ensures the software application continues to function correctly after it has been released. The team may fix any bugs or issues that arise, make enhancements to the software application, or perform updates to ensure compatibility with new technologies.
 
+
+
+---------------------------------------------------------------------------------------------
+
+
 # Benefits of SDLC
 
 The SDLC process provides several benefits to software development projects, including:
@@ -94,9 +104,10 @@ The SDLC process provides a structured and systematic approach to software devel
 7. Better Alignment with Business Objectives
 
 The SDLC process involves close collaboration with stakeholders, ensuring that the software application meets their needs and aligns with business objectives. 
-This process helps to ensure that the software application provides value to the business and its customers.
-=====================================================================
-==================================================================
+This process helps to ensure that the software application provides value to the business and its custom .
+
+---------------------------------------------------------------------------------------------
+
 # What are the SDLC models/methodologies?
 
 There are various SDLC models/methodologies that can be used for software development. Each model has its own unique approach and benefits. Let’s take a closer look at some of the most popular SDLC models.
@@ -132,14 +143,16 @@ Automation is becoming increasingly important in software development.
 With the rise of DevOps and continuous delivery practices, there is a growing need for automation in the SDLC. 
 This includes automated testing, deployment, and monitoring processes. In the future, we may see even more automation tools and processes integrated into the SDLC.
 
-2. Agile and Lean Approaches
+#2. Agile and Lean Approaches
 
-Agile and Lean approaches to software development are becoming more popular, with a focus on collaboration, flexibility, and continuous improvement. These approaches prioritize delivering value to the customer quickly and responding to changing requirements. In the future, we may see more development teams adopting agile and lean methodologies in their SDLC.
+Agile and Lean approaches to software development are becoming more popular, with a focus on collaboration, flexibility, and continuous improvement.
+These approaches prioritize delivering value to the customer quickly and responding to changing requirements.
+In the future, we may see more development teams adopting agile and lean methodologies in their SDLC.
 
-3. Artificial Intelligence and Machine Learning
+#3. Artificial Intelligence and Machine Learning
 
 Artificial intelligence (AI) and machine learning (ML) are rapidly advancing and are expected to have a significant impact on software development. These technologies can be used to automate processes, analyze data, and provide insights into software performance. In the future, we may see more integration of AI and ML tools into the SDLC.
 
-4. Cloud Computing
+#4. Cloud Computing
 
 Cloud computing is becoming increasingly important in software development, with many companies moving their applications and services to the cloud. This trend is expected to continue in the future, with more development teams using cloud-based platforms and services in their SDLC.
