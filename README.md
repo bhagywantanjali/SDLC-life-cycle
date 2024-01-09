@@ -1,8 +1,5 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
-
-
-# Software Development Life Cycle (SDLC)
+### Software Development Life Cycle (SDLC)
 
 The SDLC is a framework that allows you to break down the process of developing software into phases, each with its own goals and deliverables. 
 It’s a way to plan out your project from start to finish so that you can be sure you’re getting the most value out of your time spent writing code.
