@@ -84,19 +84,23 @@ By identifying and documenting the project’s goals and requirements, the devel
 
 3. Increased Productivity
 
-Following the SDLC process ensures that each phase of the development process is completed before moving on to the next phase. This process helps to increase productivity by providing clear guidelines and expectations for the development team.
+Following the SDLC process ensures that each phase of the development process is completed before moving on to the next phase.
+This process helps to increase productivity by providing clear guidelines and expectations for the development team.
 
 4. Improved Communication and Collaboration
 
-The SDLC process promotes clear communication and collaboration between the development team and stakeholders. By involving stakeholders in the development process, the team can ensure the software application meets the stakeholders’ needs and expectations.
+The SDLC process promotes clear communication and collaboration between the development team and stakeholders. 
+By involving stakeholders in the development process, the team can ensure the software application meets the stakeholders’ needs and expectations.
 
 5. Improved Risk Management
 
-By following the SDLC process, the development team can identify potential risks early in the development process. This process helps to mitigate risks and prevent them from turning into larger issues later on.
+By following the SDLC process, the development team can identify potential risks early in the development process. 
+This process helps to mitigate risks and prevent them from turning into larger issues later on.
 
 6. Greater Control over the Development Process
 
-The SDLC process provides a structured and systematic approach to software development. This approach helps to ensure that each phase of the development process is completed in a timely and efficient manner. This process also provides greater control over the development process, ensuring that the project stays on track and within budget.
+The SDLC process provides a structured and systematic approach to software development.
+This approach helps to ensure that each phase of the development process is completed in a timely and efficient manner. This process also provides greater control over the development process, ensuring that the project stays on track and within budget.
 
 7. Better Alignment with Business Objectives
 
@@ -107,7 +111,8 @@ This process helps to ensure that the software application provides value to the
 
 # What are the SDLC models/methodologies?
 
-There are various SDLC models/methodologies that can be used for software development. Each model has its own unique approach and benefits. Let’s take a closer look at some of the most popular SDLC models.
+There are various SDLC models/methodologies that can be used for software development. 
+Each model has its own unique approach and benefits. Let’s take a closer look at some of the most popular SDLC models.
 
 1. Waterfall Model
 
@@ -127,18 +132,22 @@ The Rapid Application Development (RAD) model is a fast-paced and iterative appr
 
 5. DevOps Model
 
-The DevOps model is a combination of development and operations processes, with an emphasis on automation and continuous delivery. This model involves the integration of development, testing, and deployment processes, with a focus on collaboration and communication between development and operations teams.
+The DevOps model is a combination of development and operations processes, with an emphasis on automation and continuous delivery.
+This model involves the integration of development, testing, and deployment processes, with a focus on collaboration and communication between development and operations teams.
 
-Overall, the choice of SDLC model/methodology depends on the specific needs of the project, as well as the development team’s experience and skill set. By understanding the benefits and approaches of each model, the development team can choose the best SDLC model for their project.
+Overall, the choice of SDLC model/methodology depends on the specific needs of the project, as well as the development team’s experience and skill set.
+By understanding the benefits and approaches of each model, the development team can choose the best SDLC model for their project.
 
 The future of the SDLC
-The future of the SDLC (Software Development Life Cycle) is expected to evolve as technology advances and new trends emerge in the software industry. Here are some of the key areas where we may see changes in the future of SDLC:
+The future of the SDLC (Software Development Life Cycle) is expected to evolve as technology advances and new trends emerge in the software industry. 
+Here are some of the key areas where we may see changes in the future of SDLC:
 
 # 1. Automation
 
 Automation is becoming increasingly important in software development. 
 With the rise of DevOps and continuous delivery practices, there is a growing need for automation in the SDLC. 
-This includes automated testing, deployment, and monitoring processes. In the future, we may see even more automation tools and processes integrated into the SDLC.
+This includes automated testing, deployment, and monitoring processes. 
+In the future, we may see even more automation tools and processes integrated into the SDLC.
 
 #2. Agile and Lean Approaches
 
@@ -148,8 +157,10 @@ In the future, we may see more development teams adopting agile and lean methodo
 
 #3. Artificial Intelligence and Machine Learning
 
-Artificial intelligence (AI) and machine learning (ML) are rapidly advancing and are expected to have a significant impact on software development. These technologies can be used to automate processes, analyze data, and provide insights into software performance. In the future, we may see more integration of AI and ML tools into the SDLC.
+Artificial intelligence (AI) and machine learning (ML) are rapidly advancing and are expected to have a significant impact on software development. These technologies can be used to automate processes, analyze data, and provide insights into software performance.
+In the future, we may see more integration of AI and ML tools into the SDLC.
 
 #4. Cloud Computing
 
-Cloud computing is becoming increasingly important in software development, with many companies moving their applications and services to the cloud. This trend is expected to continue in the future, with more development teams using cloud-based platforms and services in their SDLC.
+Cloud computing is becoming increasingly important in software development, with many companies moving their applications and services to the cloud.
+This trend is expected to continue in the future, with more development teams using cloud-based platforms and services in their SDLC.
