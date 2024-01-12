@@ -13,7 +13,8 @@ The first SDLC models were developed during this period, including the Waterfall
 
 In the Waterfall model, the development process is divided into distinct phases, with each phase building on the results of the previous one. The phases typically include requirements gathering, design, implementation, testing, and maintenance. This model provided a structured approach to software development that was easy to follow and allowed for better control of the development process.
 
-Over the years, the SDLC has evolved, with new models and methodologies emerging to address the changing needs of software development. Agile and Lean methodologies, for example, were developed in response to the need for more flexibility and collaboration in the development process
+Over the years, the SDLC has evolved, with new models and methodologies emerging to address the changing needs of software development. 
+Agile and Lean methodologies, for example, were developed in response to the need for more flexibility and collaboration in the development process
 
 -------------------------------------------------------------------------------------------------------------------------
 # Why SDLC? 
@@ -36,7 +37,7 @@ Improved client relations
 
 # How does the SDLC work? SDLC Phases............
 
-# 1. Planning
+#1. Planning
 
 The first phase of the SDLC process is planning.
 
@@ -45,23 +46,23 @@ During this phase, the development team works closely with stakeholders to ident
 the scope of the project, and any risks that may affect the project’s success. 
 Additionally, the team outlines the project budget, timelines, and any other factors that may impact the project.
 
-# 2. Requirements Gathering
+#2. Requirements Gathering
 
 The second phase of the SDLC process is requirements gathering. This phase involves identifying and documenting the functional and non-functional requirements of the software application. These requirements are the foundation for the design, development, and testing of the software application.
 
-3. Design
+#3. Design
 
 The design phase involves the creation of a blueprint for the software application. The development team creates the application’s architecture, defines its components, and establishes how the components will interact with one another. Additionally, the team creates a prototype of the user interface and designs the software’s code structure.
 
-4. Implementation
+#4. Implementation
 
 The implementation phase is where the actual coding and development of the software application take place. The development team writes the code, integrates the components, and creates the final version of the software application.
 
-5. Testing
+#5. Testing
 
 The testing phase is where the software application is thoroughly tested to ensure it meets the project’s goals and requirements. This phase involves several types of testing, including functional testing, regression testing, and load testing, to name a few. Testing helps to identify any bugs or issues in the software application before it is released to end users.
 
-6. Maintenance
+#6. Maintenance
 
 The maintenance phase is the final phase of the SDLC process. During this phase, the development team ensures the software application continues to function correctly after it has been released. The team may fix any bugs or issues that arise, make enhancements to the software application, or perform updates to ensure compatibility with new technologies.
 
