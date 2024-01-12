@@ -142,7 +142,7 @@ The future of the SDLC
 The future of the SDLC (Software Development Life Cycle) is expected to evolve as technology advances and new trends emerge in the software industry. 
 Here are some of the key areas where we may see changes in the future of SDLC:
 
-# 1. Automation
+#1. Automation
 
 Automation is becoming increasingly important in software development. 
 With the rise of DevOps and continuous delivery practices, there is a growing need for automation in the SDLC. 
